@@ -7,8 +7,8 @@
     <ProjectGuid>{079D933E-1F03-4570-9A16-3F01940900B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RefactorMe.Infra.Data</RootNamespace>
-    <AssemblyName>RefactorMe.Infra.Data</AssemblyName>
+    <RootNamespace>RefactorMe.Data</RootNamespace>
+    <AssemblyName>RefactorMe.Data</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
