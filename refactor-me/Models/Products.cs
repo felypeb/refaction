@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using Newtonsoft.Json;
 
-namespace refactor_me.Models
+namespace RefactorMe.Models
 {
     public class Products
     {

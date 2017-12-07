@@ -1,11 +1,12 @@
 ﻿using System.Web.Http;
 
-namespace RefactorMe
+namespace RefactorMe.Webapi
 {
     public static class WebApiConfig
     {
         public static void Register(HttpConfiguration config)
         {
+
             // Web API configuration and services
             var formatters = GlobalConfiguration.Configuration.Formatters;
             formatters.Remove(formatters.XmlFormatter);
